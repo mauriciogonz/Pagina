@@ -1,0 +1,19 @@
+body {
+  background: #a1f0f6;
+  margin-top: 30%;
+}
+h1 {
+  text-align: center;
+  font-family: "Nunito", sans-serif;
+}
+p {
+  margin-left: 20px;
+  font-family: "Nunito", sans-serif;
+}
+footer {
+  text-align: right;
+}
+.imagen {
+  height: auto;
+  max-width: 100%;
+}
